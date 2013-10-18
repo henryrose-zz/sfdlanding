@@ -100,9 +100,26 @@ textarea {
 
 
 
+body{
+    background: url(../img/boom.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.teaser{
+    width: 460px;
+    margin: 128px auto 0 auto;
+    font-family: verdana;
+    color: #efefef;
+    font-size: 18px;
+}
 
 
-
+.teaser h1{
+    font-size: 36px;
+}
 
 
 
